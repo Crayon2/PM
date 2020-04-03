@@ -36,7 +36,7 @@ Design， 为某目标而将某事物、数据等做安排
 
 设计冲刺 Design Sprint
 
-<img src="images/anpai.png">
+<img src="images/anpai.png" width="50%;" margin="2px;">
 
 > 为设计去感受用户与沟通需求
 
