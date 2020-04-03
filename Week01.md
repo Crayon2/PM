@@ -2,7 +2,8 @@
 
 *写在前面：本周主要介绍了产品经理需要有的“能力”、文档以及相关术语。*
 
-<img src="images/huizong.png">
+
+<img src="images/huizong.png" width="50%;" margin="2px;">
 
 > “感”体验，“通”需求，“出”设计
 
