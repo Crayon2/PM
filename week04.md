@@ -4,9 +4,9 @@
 
 * MRD书写框架
 
-<img src="images/mrd.png" width="40px;">
+<img src="images/mrd.png" width="50px;">
 
-<img src="images/m.png" width="40px;">
+<img src="images/m .png" width="50px;">
 
 ### 产品竞品分析
 
@@ -50,7 +50,7 @@
 
 > 评估指标
 
-<img src="images/neirong.png" width="30px;">
+<img src="images/neirong.png" width="50px;">
 
 1.产品用户数指标
    
