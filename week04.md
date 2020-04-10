@@ -4,9 +4,9 @@
 
 * MRD书写框架
 
-<img src="images/mrd.png" width="50px;">
+<img src="images/mrd.png" width="50%;">
 
-<img src="images/m .png" width="50px;">
+<img src="images/m .png" width="50%;">
 
 ### 产品竞品分析
 
@@ -32,7 +32,7 @@
      
  示例图：
  
-<img src="images/user.png" width="50px;"> 
+<img src="images/user.png" width="50%;"> 
 
 2.用户使用的场景，任务和需求
 
@@ -50,7 +50,7 @@
 
 > 评估指标
 
-<img src="images/neirong.png" width="50px;">
+<img src="images/neirong.png" width="50%;">
 
 1.产品用户数指标
    
